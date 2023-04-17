@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<a href=”https://www.instagram.com/shibin_kurian_sbk/"><img align=”left” src=”https://raw.githubusercontent.com/shibin-kurian/shibin-kurian/main/images/Instagram.png" alt=”Shibin Kurian | Instagram” width=”21px”/></a>
