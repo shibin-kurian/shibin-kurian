@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<h2>About:</h2>
+
+## 🔭 Increasing my knowledge and abilities to contribute.
 # 🌱 I’m currently learning  
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
 
