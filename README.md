@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://discord.com/users/1097215506504757330" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126944196/235486646-e79b6c1f-ef18-4f87-a6eb-cf302c7f972b.gif" alt="https://discord.com/users/1097215506504757330" height="56" width="54" /></a></p>
 <p>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Shibin Kurian | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/shibin-kurian"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Shibin Kurian | LinkedIn" width="40px"/></a>
 <a href="https://www.instagram.com/shibin_kurian_sbk/"><img align="left" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="Shibin Kurian | Instagram" width="40px"/></a></br></p>
 
 
