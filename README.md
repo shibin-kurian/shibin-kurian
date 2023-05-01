@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Shibin Kurian | LinkedIn" width="31px"/></a>
-<a href="https://www.instagram.com/shibin_kurian_sbk/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Shibin Kurian | Instagram" width="31px"/></a>
+<a href="https://www.instagram.com/shibin_kurian_sbk/"><img align="left" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="Shibin Kurian | Instagram" width="31px"/></a>
 <a href="https://discord.com/users/1097215506504757330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1097215506504757330" height="40" width="50" /></a>
 
 
